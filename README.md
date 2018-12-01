@@ -1,1 +1,1 @@
-# algorithm-problems
+# Algorithm Problems
